@@ -1,0 +1,57 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_BE89C666_9EEE_29EC_41E3_D7617FF89034.text = Vaihda näkymä hääkattaukseen
+HotspotPanoramaOverlayTextImage_B64AB4A0_9EE6_2963_41DD_BB11C4AF7526.text = Vaihda näkymä hääkattaukseen
+HotspotPanoramaOverlayTextImage_AA51C89E_9E9E_D95F_41CB_D0AC6F978FC8.text = Vaihda tavalliseen kattaukseen
+HotspotPanoramaOverlayTextImage_A80A56A3_9EA6_2965_41C8_6B24DCDA54DE.text = Vaihda tavalliseen kattaukseen
+
+## Media
+
+### Image
+imlevel_AD744A4F_9EA9_D93D_41E0_D121F5B7EBF6.url = media/panorama_80B211B4_9EAE_6B63_41C9_9820AB46E41D_HS_kztwmclf_en.png
+imlevel_AD704912_9EA9_DB27_41C5_886B8C21FCAF.url = media/panorama_82C44EB2_9EAE_5967_41DF_AF2E64E93EB5_HS_0cfbwjc8_en.png
+imlevel_ADF1E7D7_9EA9_D72D_41DF_25B802674B68.url = media/panorama_82C4A078_9EAE_69E3_41CB_31998BA64E3C_HS_ms8n88ns_en.png
+imlevel_AAD17C34_9EA9_D963_41E0_D92CD7D69147.url = media/panorama_82C52B54_9EAF_DF23_41C8_F137FE3BDD8B_HS_18w3wb80_en.png
+
+### Title
+panorama_82C4A078_9EAE_69E3_41CB_31998BA64E3C.label = Basic sali 3
+panorama_82C4423F_9EAE_695D_41D3_E3D80E009B9A.label = Basic sali 4
+panorama_82C44EB2_9EAE_5967_41DF_AF2E64E93EB5.label = Basic sali 5
+panorama_80B211B4_9EAE_6B63_41C9_9820AB46E41D.label = Hääkattaus 1
+panorama_82C54E28_9EAE_3963_41D8_C24844EF69F1.label = Hääkattaus 2
+panorama_82C52B54_9EAF_DF23_41C8_F137FE3BDD8B.label = Hääkattaus 3
+panorama_82C5AADC_9EAF_F923_41D2_6042C09BDBA9.label = Hääkattaus 4
+panorama_82C5988F_9EAF_D93C_41B4_37A76F20D2B6.label = basicsali 1
+
+## Skin
+
+### Image
+Image_E6BB5124_FFF6_5E2A_41E7_546B9B39CEA7.url = skin/Image_E6BB5124_FFF6_5E2A_41E7_546B9B39CEA7_en.png
+Image_E7992826_FFF6_4E36_41DE_5E53C944CE75.url = skin/Image_E7992826_FFF6_4E36_41DE_5E53C944CE75_en.png
+
+### Tooltip
+IconButton_9162DC57_BC8F_C616_41C5_0DD9D2CCEADD.toolTip = Fullscreen
+IconButton_9162DC57_BC8F_C616_41C5_0DD9D2CCEADD_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = WW sali
+
+## VR Menu
+
+### Text
+MenuItem_91D48524_BC8E_462A_41D5_95FA47A82851.label = Basic sali 3
+MenuItem_91D56524_BC8E_462A_41D3_E606DA745D0A.label = Basic sali 4
+MenuItem_91D4C524_BC8E_462A_41D2_90B9B8123969.label = Basic sali 5
+MenuItem_91D4A524_BC8E_462A_41E5_B72EAF44A283.label = Hääkattaus 1
+MenuItem_91D4D524_BC8E_462A_41D6_0494545A56C2.label = Hääkattaus 2
+MenuItem_91D49524_BC8E_462A_41AB_DFB16AB67C18.label = Hääkattaus 3
+MenuItem_91D57524_BC8E_462A_41D4_A3B9B9DCC3E5.label = Hääkattaus 4
+Menu_A9C1FE67_BCBA_C236_41D3_E2895FDBA00A.label = Media
+MenuItem_91D4B524_BC8E_462A_41D8_7419BCB8C773.label = basicsali 1
